@@ -5,3 +5,4 @@ tqdm>=4.61.1
 loguru>=0.5.3
 torch>=1.7.1
 transformers>=4.8.2
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
